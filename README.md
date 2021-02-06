@@ -1,4 +1,12 @@
-### Hi there 👋
+# Yusuf Umar Al Hakim - @vysf
+👋 Hi there, I'm self-taught programer through research and development, i do programing as a hobby. Aduh... susah pake bahasa inggris euy 😑, temen-temen bilang kalo front-end ngandalin otak kanan untuk kreativitas desain UI/UX dan back-end sering ngandalin otak kiri untuk kebanyakan logika pertukaran data, lah... saya lagi mendalami full stack dibilang ngga ada otak 🥴, tapi bener juga sih, emang kadang full stack projek nya ngga ngotak. Meskipun begitu saya ngelakuinya karena hobi jadi selalu menikmati setiap tantangan yang ada, chill... wkwkwk 🤙.
+
+## 💬 Get in touch (uhh.. inggris lagi)
+- Twitter 🐦  : https://twitter.com/vysf__
+- Email 📬    : yusufumar@student.untan.ac.id
+
+## 📈 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vysf&layout=compact&langs_count=10) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysf&show_icons=true&theme=compact)
 
 <!--
 **vysf/vysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
