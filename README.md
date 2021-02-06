@@ -6,7 +6,7 @@
 - Email 📬    : yusufumar@student.untan.ac.id
 
 ## 📈 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vysf&layout=compact&langs_count=10) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysf&show_icons=true&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vysf&langs_count=10) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysf&show_icons=true&theme=compact)
 
 <!--
 **vysf/vysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
