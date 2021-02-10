@@ -1,7 +1,8 @@
-# Yusuf Umar Al Hakim - @vysf
-👋 Hi there, I'm self-taught programer through research and development also i love to explore new technologies and broaden my knowledge and skills, i do programing as a hobby. Aduh... susah pake bahasa inggris euy 😑, temen-temen bilang kalo front-end ngandalin otak kanan untuk kreativitas desain UI/UX dan back-end sering ngandalin otak kiri untuk kebanyakan logika pertukaran data, lah... saya lagi mendalami full stack dibilang ngga ada otak 🥴, tapi bener juga sih, emang kadang full stack projek nya ngga ngotak. Meskipun begitu saya ngelakuinya karena hobi jadi selalu menikmati setiap tantangan yang ada, chill... wkwkwk 🤙.
+# Yusuf Umar Al Hakim - @vysf 
+## 👋 Hi there...
+I taught myself programming 💻 through research and development, especially for web development 🌍 and data processing 📊. Mostly i use javascript for web development and python for data processing. Also, i love to explore new technologies and broaden my knowledge and skills. I do programing as a hobby.
 
-## 💬 Get in touch (uhh.. inggris lagi)
+## 💬 Get in touch
 - Twitter 🐦  : https://twitter.com/vysf__
 - Email 📬    : yusufumar@student.untan.ac.id
 
