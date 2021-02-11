@@ -1,7 +1,19 @@
 # Yusuf Umar Al Hakim - @vysf 
 ### 👋 Hi there...
 
-I taught myself programming through research and development, especially for web development and data processing. Mostly i use javascript for web development and python for data processing. Also, i love to explore new technologies and broaden my knowledge and skills. I do programing as a hobby.
+💻 &nbsp;I do programing as a hobby.\
+💡 &nbsp; I like to explore new technologies and broaden my knowledge and skills.\
+🎓 &nbsp;I'm currently studying Geophysics at the University of Tanjungpura, Pontianak, Indonesia.\
+🌱 &nbsp;I'm on track for learning more about Data Processing and Web Development.\
+✍️ &nbsp;In my free time, I taught myself programming through research and development.\
+✉️ &nbsp;You can shoot me an email at yusufumar@student.untan.ac.id! I'll try to respond as soon as I can.\
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="mailto:yusufumar@student.untan.ac.id"><img src="https://img.shields.io/badge/-yusufumar@student.untan.ac.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/vysf__"><img src="https://img.shields.io/badge/-@vysf__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,13 +37,6 @@ I taught myself programming through research and development, especially for web
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vysf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vysf&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="mailto:yusufumar@student.untan.ac.id"><img src="https://img.shields.io/badge/-yusufumar@student.untan.ac.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/vysf__"><img src="https://img.shields.io/badge/-@vysf__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!--
 **vysf/vysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
