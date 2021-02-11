@@ -1,11 +1,7 @@
 # Yusuf Umar Al Hakim - @vysf 
 ### 👋 Hi there...
 
-I taught myself programming 💻 through research and development, especially for web development 🌍 and data processing 📊. Mostly i use javascript for web development and python for data processing. Also, i love to explore new technologies and broaden my knowledge and skills. I do programing as a hobby.
-
-### 💬 Get in touch
-- Twitter 🐦  : https://twitter.com/vysf__
-- Email 📬    : yusufumar@student.untan.ac.id
+I taught myself programming through research and development, especially for web development and data processing. Mostly i use javascript for web development and python for data processing. Also, i love to explore new technologies and broaden my knowledge and skills. I do programing as a hobby.
 
 ### 🛠 &nbsp;Tech Stack
 
