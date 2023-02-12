@@ -2,7 +2,7 @@
 ### 👋 Hi there...
 
 💻 &nbsp;I do programing as a hobby.\
-💡 &nbsp; I like to explore new technologies and broaden my knowledge and skills.\
+💡 &nbsp;I like to explore new technologies and broaden my knowledge and skills.\
 🎓 &nbsp;I'm currently studying Geophysics at Tanjungpura University, Pontianak, Indonesia.\
 🌱 &nbsp;I'm on track for learning more about Data Processing and Web Development.\
 ✍️ &nbsp;In my free time, I taught myself programming through research and development.\
