@@ -12,7 +12,6 @@
 
 <p align="left">
   <a href="mailto:yusufumar@student.untan.ac.id"><img src="https://img.shields.io/badge/-yusufumar@student.untan.ac.id-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/vysf__" target="_blank"><img src="https://img.shields.io/badge/-@vysf__-1ca0f1?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
