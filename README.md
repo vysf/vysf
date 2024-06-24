@@ -6,7 +6,6 @@
 🎓 &nbsp;I'm currently studying Geophysics at Tanjungpura University, Pontianak, Indonesia.\
 🌱 &nbsp;I'm on track for learning more about Data Processing and Web Development.\
 ✍️ &nbsp;In my free time, I taught myself programming through research and development.\
-✉️ &nbsp;You can shoot me an email at yusufumar@student.untan.ac.id! I'll try to respond as soon as I can.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
